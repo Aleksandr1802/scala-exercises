@@ -1,0 +1,14 @@
+/STAGE
+target/*
+*/target/*
+*/*/target/*
+*/*/*/target/*
+*.class
+*.cache
+.idea/*
+.bsp/
+logs/
+/bazel-*
+/.ijwb
+/.bazelrc.user
+/stryker4s.conf
